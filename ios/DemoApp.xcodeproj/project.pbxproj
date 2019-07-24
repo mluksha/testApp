@@ -719,6 +719,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1230,7 +1231,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tabeeb.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.talon.pro;
 				PRODUCT_NAME = DemoApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1249,7 +1250,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tabeeb.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.talon.pro;
 				PRODUCT_NAME = DemoApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
