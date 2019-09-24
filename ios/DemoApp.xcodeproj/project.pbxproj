@@ -1226,7 +1226,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.talon.pro;
+				PRODUCT_BUNDLE_IDENTIFIER = com.talon.view;
 				PRODUCT_NAME = DemoApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1245,7 +1245,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.talon.pro;
+				PRODUCT_BUNDLE_IDENTIFIER = com.talon.view;
 				PRODUCT_NAME = DemoApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
